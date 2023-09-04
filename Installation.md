@@ -8,8 +8,7 @@
 
 [VMware ESXi/vSphere (.ova)](https://github.com/home-assistant/operating-system/releases/download/10.5/haos_ova-10.5.ova)
 
-
-
+----
 
 # Docker installation
 
@@ -22,3 +21,5 @@ docker run --name home-assist -p 8123:8123 -d homeassistant/home-assistant
 
 docker ps -a
 ```
+
+----
