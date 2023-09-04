@@ -1,3 +1,10 @@
+# Install Home Assistant Operating System
+### DOWNLOAD THE APPROPRIATE IMAGE
+
+
+https://www.home-assistant.io/installation/alternative/
+
+
 # Docker installation
 
 ```cmd
