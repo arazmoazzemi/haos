@@ -2,6 +2,13 @@
 
 [DOWNLOAD THE APPROPRIATE IMAGE](https://www.home-assistant.io/installation/alternative/)
 
+[VirtualBox (.vdi)]()
+
+[KVM/Proxmox (.qcow2)]()
+
+[VMware ESXi/vSphere (.ova)]()
+
+
 
 
 # Docker installation
