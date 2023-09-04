@@ -4,7 +4,7 @@
 
 [VirtualBox (.vdi)](https://github.com/home-assistant/operating-system/releases/download/10.5/haos_ova-10.5.vdi.zip)
 
-[KVM/Proxmox (.qcow2)]()
+[KVM/Proxmox (.qcow2)](https://github.com/home-assistant/operating-system/releases/download/10.5/haos_ova-10.5.qcow2.xz)
 
 [VMware ESXi/vSphere (.ova)]()
 
