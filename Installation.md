@@ -6,7 +6,7 @@
 
 [KVM/Proxmox (.qcow2)](https://github.com/home-assistant/operating-system/releases/download/10.5/haos_ova-10.5.qcow2.xz)
 
-[VMware ESXi/vSphere (.ova)]()
+[VMware ESXi/vSphere (.ova)](https://github.com/home-assistant/operating-system/releases/download/10.5/haos_ova-10.5.ova)
 
 
 
