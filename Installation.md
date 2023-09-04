@@ -2,4 +2,8 @@
 
 ```cmd
 docker pull homeassistant/home-assistant
+
+# docker run -d –name = homeassistant -v your_home_directory:/config –net=host homeassistant/home-assistant
+
+
 ```
