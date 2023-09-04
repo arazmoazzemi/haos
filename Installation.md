@@ -2,7 +2,7 @@
 
 [DOWNLOAD THE APPROPRIATE IMAGE](https://www.home-assistant.io/installation/alternative/)
 
-[VirtualBox (.vdi)]()
+[VirtualBox (.vdi)](https://github.com/home-assistant/operating-system/releases/download/10.5/haos_ova-10.5.vdi.zip)
 
 [KVM/Proxmox (.qcow2)]()
 
