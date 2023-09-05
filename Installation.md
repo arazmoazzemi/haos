@@ -10,6 +10,21 @@
 
 ----
 
+# KVM
+
+```bash
+cd /var/lib/libvirt/images/hassos-vm
+virt-install --import --name hassos \
+--memory 4096 --vcpus 4 --cpu host \
+--disk haos_ova-6.6.qcow2,format=qcow2,bus=virtio \
+--network bridge=br0,model=virtio \
+--osinfo detect=on,require=off \
+--graphics none \
+--noautoconsole \
+--boot uefi
+```
+
+
 # Docker installation
 
 ```cmd
