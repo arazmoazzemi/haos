@@ -50,6 +50,19 @@ http://127.0.0.1:8123
 ```
 
 ----
+HASSOS Set Static IP Address
+
+```bash
+ha network info
+
+ha network update enp0s2 --ipv4-address 192.168.122.90 --ipv4-gateway 192.168.22.1 
+
+/sbin/reboot now
+
+
+```
+
+----
 ### Docker installation
 
 ```cmd
@@ -61,5 +74,7 @@ docker run --name home-assist -p 8123:8123 -d homeassistant/home-assistant
 
 docker ps -a
 ```
+
+
 
 ----
