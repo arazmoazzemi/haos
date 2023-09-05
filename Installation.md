@@ -30,11 +30,7 @@ virt-install --import --name hassos \
 ```bash
 virsh autostart hassos
 ```
-
-
-```
 ----
-
 ### Docker installation
 
 ```cmd
