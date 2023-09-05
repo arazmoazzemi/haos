@@ -31,6 +31,11 @@ virt-install --import --name hassos \
 virsh list --all
 virsh autostart hassos
 ```
+
+```
+http://127.0.0.1:8123
+```
+
 ----
 ### Docker installation
 
