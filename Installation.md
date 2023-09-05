@@ -37,7 +37,7 @@ virsh net-list
 virsh net-info default
 virsh net-dhcp-leases --network default
 
-virsh list
+virsh list --all
 virsh domifaddr hassos
 ```
 
