@@ -23,7 +23,7 @@ virt-install --import --name hassos \
 --noautoconsole \
 --boot uefi
 ```
-
+----
 
 ### Docker installation
 
