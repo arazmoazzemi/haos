@@ -18,7 +18,7 @@ cd /var/lib/libvirt/images/
 virt-install --import --name hassos \
 --memory 8192 --vcpus 8 --cpu host \
 --disk /var/lib/libvirt/images/haos_ova-10.5.qcow2,format=qcow2,bus=virtio \
---network bridge=br0,model=virtio \
+--network bridge=virbr0,model=virtio \
 --osinfo detect=on,require=off \
 --graphics none \
 --noautoconsole \
