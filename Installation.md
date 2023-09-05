@@ -59,8 +59,8 @@ ha network update enp0s2 --ipv4-address 192.168.122.90/24 --ipv4-gateway 192.168
 
 /sbin/reboot now
 
-http://192.168.122.90:8123
 ```
+http://192.168.122.90:8123
 
 ----
 ### Docker installation
