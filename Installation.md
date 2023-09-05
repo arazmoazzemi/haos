@@ -10,7 +10,7 @@
 
 ----
 
-# KVM
+### KVM
 
 ```bash
 cd /var/lib/libvirt/images/hassos-vm
@@ -25,7 +25,7 @@ virt-install --import --name hassos \
 ```
 
 
-# Docker installation
+### Docker installation
 
 ```cmd
 docker pull homeassistant/home-assistant
