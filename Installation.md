@@ -36,7 +36,10 @@ virsh autostart hassos
 virsh net-list
 virsh net-info default
 virsh net-dhcp-leases --network default
+```
 
+Install qemu-agent on vm host
+```
 virsh list --all
 virsh domiflist hassos
 virsh domifaddr hassos
