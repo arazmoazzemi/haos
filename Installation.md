@@ -34,11 +34,11 @@ virsh autostart hassos
 
 ```
 virsh net-list
-
+virsh net-info default
 virsh net-dhcp-leases --network default
 
 virsh list
- virsh domifaddr hassos
+virsh domifaddr hassos
 ```
 
 ```
