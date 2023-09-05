@@ -13,10 +13,10 @@
 ### KVM
 
 ```bash
-cd /var/lib/libvirt/images/hassos-vm
+cd /var/lib/libvirt/images/
 virt-install --import --name hassos \
---memory 4096 --vcpus 4 --cpu host \
---disk haos_ova-6.6.qcow2,format=qcow2,bus=virtio \
+--memory 8192 --vcpus 8 --cpu host \
+--disk /var/lib/libvirt/images/haos_ova-10.5.qcow2,format=qcow2,bus=virtio \
 --network bridge=br0,model=virtio \
 --osinfo detect=on,require=off \
 --graphics none \
