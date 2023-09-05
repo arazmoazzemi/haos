@@ -15,7 +15,8 @@
 ```bash
 cd /var/lib/libvirt/images/
 ```
-```bash```
+
+```bash
 virt-install --import --name hassos \
 --memory 8192 --vcpus 8 --cpu host \
 --disk /var/lib/libvirt/images/haos_ova-10.5.qcow2,format=qcow2,bus=virtio \
@@ -25,6 +26,7 @@ virt-install --import --name hassos \
 --noautoconsole \
 --boot uefi
 ```
+
 ```bash
 virsh autostart hassos
 ```
