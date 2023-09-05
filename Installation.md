@@ -28,6 +28,7 @@ virt-install --import --name hassos \
 ```
 
 ```bash
+virsh list --all
 virsh autostart hassos
 ```
 ----
