@@ -23,6 +23,7 @@ virt-install --import --name hassos \
 --graphics none \
 --noautoconsole \
 --boot uefi
+
 ```
 ----
 
