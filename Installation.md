@@ -33,6 +33,10 @@ virsh autostart hassos
 ```
 
 ```
+virsh net-dhcp-leases --network default
+```
+
+```
 http://127.0.0.1:8123
 ```
 
