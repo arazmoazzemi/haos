@@ -132,7 +132,7 @@ iOS Dark Mode:
 
 Restart hassos
 
-Goto end of __left panel__, click on __user__, From __Theme__ section, Select __IOS Dark Mode__ item
+Goto end of __left panel__, click on profile tab __user__, From __Theme__ section, Select __IOS Dark Mode__ item
 
 
 
