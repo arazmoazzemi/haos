@@ -1,11 +1,11 @@
 # Home Assistant Frontend Theme Update
 
 
-Install studio code server 
+- Install studio code server 
 
-Goto left panel and click on studio code server 
+- Goto left panel and click on studio code server 
 
-Goto *config* path and open *configuration.yaml* file
+- Goto *config* path and open *configuration.yaml* file
 
 ```code
 # Loads default set of integrations. Do not remove.
