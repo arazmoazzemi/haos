@@ -147,7 +147,9 @@ frontend:
       
 
 
+- Goto profile tab and enable Advanced Mode
 
+Goto >>> setting >>> Devices & Services >>> 
 
 enable ssh
 
