@@ -1,4 +1,4 @@
-# Home Assistant Frontend Theme Update
+# Enable custom theme in Home Assistant
 
 
 - Install studio code server 
