@@ -149,7 +149,7 @@ frontend:
 
 - Goto profile tab and enable Advanced Mode
 
-Goto >>> setting >>> Devices & Services >>> 
+- Goto >>> setting >>> Add-ons >>> click on + ADD-ON STORE >>> Terminal & SSH ---------> Install
 
 enable ssh
 
