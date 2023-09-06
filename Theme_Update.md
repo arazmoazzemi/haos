@@ -22,6 +22,7 @@ scene: !include scenes.yaml
 ```
 
 [ios_dark_mode_theme](https://github.com/JuanMTech/ios_dark_mode_theme)
+
 NOTE! Considering __themes: !include_dir_merge_named themes__ line, Create theme folder at config path:
 - After create folder, Restart hassos
 - And then, Create your config file, **ios_dark_mode.yaml**, For example:
