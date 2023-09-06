@@ -21,3 +21,5 @@ scene: !include scenes.yaml
 
 ```
 
+NOTE! Considering __themes: !include_dir_merge_named themes__ line, Create theme folder on, And create your new config.yaml, For example:
+
