@@ -137,6 +137,28 @@ Goto end of __left panel__, click on profile tab __user__, From __Theme__ sectio
 
 
 
+frontend:
+  themes:
+    brushedblue:
+      lovelace-background: 'center / cover no-repeat url("/local/backgrounds/brushedblue.jpg") fixed'
+
+
+
+      
+
+
+
+
+enable ssh
+
+wget -q -O - https://install.hacs.xyz | bash -
+
+OR
+
+docker exec -it homeassistant bash
+
+reboot
+
 
 
 
