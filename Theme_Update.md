@@ -149,7 +149,7 @@ frontend:
 
 - Goto profile tab and enable Advanced Mode
 
-- Goto >>> setting >>> Add-ons >>> click on + ADD-ON STORE >>> Terminal & SSH ---------> Install
+- Goto >>> settings >>> Add-ons >>> click on + ADD-ON STORE >>> Terminal & SSH ---------> Install
 
 enable ssh
 
@@ -161,7 +161,7 @@ docker exec -it homeassistant bash
 
 reboot
 
-
+- Goto >>> settings >>> Devices & Services >>> click on + ADD INTEGRATION >>> search HACS and install it
 
 
 
