@@ -21,8 +21,8 @@ scene: !include scenes.yaml
 
 ```
 
-NOTE! Considering __themes: !include_dir_merge_named themes__ line, Create theme folder on
-- Restart hassos
+NOTE! Considering __themes: !include_dir_merge_named themes__ line, Create theme folder at config path:
+- After create folder, Restart hassos
 - And then, Create your new config.yaml, For example:
 
 
