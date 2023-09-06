@@ -7,7 +7,7 @@ Goto left panel and click on studio code server
 
 Goto *config* path and open *configuration.yaml* file
 
-`
+```
 # Loads default set of integrations. Do not remove.
 default_config:
 
@@ -19,6 +19,6 @@ automation: !include automations.yaml
 script: !include scripts.yaml
 scene: !include scenes.yaml
 
-`
+```
 
 `code`
