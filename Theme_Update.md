@@ -7,5 +7,8 @@ Goto left panel and click on studio code server
 
 Goto *config* path and open *configuration.yaml* file
 
+```
 
+```
 
+`code`
