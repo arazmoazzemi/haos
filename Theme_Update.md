@@ -130,6 +130,11 @@ iOS Dark Mode:
   rgb-primary-color: 242, 242, 247
 ```
 
+Restart hassos
+
+Goto end of __left panel__, click on __user__, From __Theme__ section, Select __IOS Dark Mode__ item
+
+
 
 
 
