@@ -28,8 +28,6 @@ title: اوقات شرعی
 
 
 
-
-
 views:
   - panel: true
     title: My Host
