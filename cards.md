@@ -3,8 +3,7 @@ url: https://www.youtube.com/embed/590MXisPeZE
 aspect_ratio: '16:9'
 
 
-
-------------------------------------------------------
+----
 
 
 type: entities
@@ -24,7 +23,7 @@ header:
     action: none
 title: اوقات شرعی
 
-------------------------------------------
+----
 
 
 
@@ -43,7 +42,7 @@ views:
         aspect_ratio: 100%
 
 
------------------------------------------------------
+----
 
 
 
@@ -62,7 +61,7 @@ views:
 
 
 
-------------------------------------------
+----
 
 
 wallpanel:
@@ -102,7 +101,7 @@ wallpanel:
       color: '#eeeeee'
       text-shadow: '-2px -2px 0 #03a9f4, 2px -2px 0 #03a9f4, -2px 2px 0 #03a9f4, 2px 2px 0 #03a9f4'
 
---------------------------
+----
 
 background per tab
 
@@ -130,7 +129,7 @@ views:
 
 
 
-----------------------------------
+----
 
 type: iframe
 url: /local/pdf/ebook-01.pdf
