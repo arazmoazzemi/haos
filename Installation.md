@@ -1,12 +1,12 @@
 # Install Home Assistant Operating System
 
-[DOWNLOAD THE APPROPRIATE IMAGE](https://www.home-assistant.io/installation/alternative/)
+- [DOWNLOAD THE APPROPRIATE IMAGE](https://www.home-assistant.io/installation/alternative/)
 
-[VirtualBox (.vdi)](https://github.com/home-assistant/operating-system/releases/download/10.5/haos_ova-10.5.vdi.zip)
+- [VirtualBox (.vdi)](https://github.com/home-assistant/operating-system/releases/download/10.5/haos_ova-10.5.vdi.zip)
 
-[KVM/Proxmox (.qcow2)](https://github.com/home-assistant/operating-system/releases/download/10.5/haos_ova-10.5.qcow2.xz)
+- [KVM/Proxmox (.qcow2)](https://github.com/home-assistant/operating-system/releases/download/10.5/haos_ova-10.5.qcow2.xz)
 
-[VMware ESXi/vSphere (.ova)](https://github.com/home-assistant/operating-system/releases/download/10.5/haos_ova-10.5.ova)
+- [VMware ESXi/vSphere (.ova)](https://github.com/home-assistant/operating-system/releases/download/10.5/haos_ova-10.5.ova)
 
 ----
 
