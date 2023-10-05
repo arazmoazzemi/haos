@@ -39,7 +39,8 @@ virsh net-dhcp-leases --network default
 ```
 
 Install qemu-agent on vm host
-```
+
+```bash
 virsh list --all
 virsh domiflist hassos
 virsh domifaddr hassos
