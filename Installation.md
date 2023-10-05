@@ -32,7 +32,7 @@ virsh list --all
 virsh autostart hassos
 ```
 
-```
+```bash
 virsh net-list
 virsh net-info default
 virsh net-dhcp-leases --network default
