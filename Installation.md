@@ -38,7 +38,7 @@ virsh net-info default
 virsh net-dhcp-leases --network default
 ```
 
-Install qemu-agent on vm host
+- Install qemu-agent on vm host
 
 ```bash
 virsh list --all
