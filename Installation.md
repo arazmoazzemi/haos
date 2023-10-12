@@ -38,7 +38,7 @@ virsh net-info default
 virsh net-dhcp-leases --network default
 ```
 
-- Install qemu-agent on vm host
+- Install qemu-agent on vm host:
 
 ```bash
 virsh list --all
@@ -51,7 +51,7 @@ http://127.0.0.1:8123
 ```
 
 ----
-- HASSOS Set Static IP Address
+- HASSOS Set Static IP Address:
 
 ```bash
 - ha network info
