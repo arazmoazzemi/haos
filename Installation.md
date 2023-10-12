@@ -54,9 +54,9 @@ http://127.0.0.1:8123
 HASSOS Set Static IP Address
 
 ```bash
-ha network info
+- ha network info
 
-ha network update enp0s2 --ipv4-address 192.168.122.90/24 --ipv4-gateway 192.168.122.1
+- ha network update enp0s2 --ipv4-address 192.168.122.90/24 --ipv4-gateway 192.168.122.1
 
 /sbin/reboot now
 
